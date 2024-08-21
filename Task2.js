@@ -26,8 +26,8 @@ function get_rating(mark){
     }
 }
 get_rating(mark);
-
-//                  "switch"
+// ------------------------------------------------------------------
+//                             "switch"
 
 let day ="sunday";
 function get_weekend(day){
@@ -56,8 +56,8 @@ function get_weekend(day){
     }
 }
 get_weekend(day);
-
-//                   "for"
+//---------------------------------------------------------------------
+//                             "for"
 
 let arry = ["BMW", "Volvo", "Saab", "Ford"];
 function get_arry(arr){
@@ -72,8 +72,8 @@ function get_arry(arr){
     console.log(`[ ${text} ]`)
 }
 get_arry(arry);
-
-//                   "while"
+//----------------------------------------------------------------------
+//                             "while"
 
 function print_arry(arr) {
 
